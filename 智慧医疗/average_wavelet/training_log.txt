@@ -1,0 +1,11 @@
+Epoch 1/50, Loss: 0.7186, Accuracy: 0.5309
+Epoch 2/50, Loss: 0.7014, Accuracy: 0.5309
+Epoch 3/50, Loss: 0.6939, Accuracy: 0.5309
+Epoch 4/50, Loss: 0.6930, Accuracy: 0.5309
+Epoch 5/50, Loss: 0.6846, Accuracy: 0.5309
+Epoch 6/50, Loss: 0.7022, Accuracy: 0.5309
+Epoch 7/50, Loss: 0.6846, Accuracy: 0.5309
+Epoch 8/50, Loss: 0.7010, Accuracy: 0.5309
+Epoch 9/50, Loss: 0.7012, Accuracy: 0.5309
+Epoch 10/50, Loss: 0.6944, Accuracy: 0.5309
+Epoch 11/50, Loss: 0.7014, Accuracy: 0.5309
